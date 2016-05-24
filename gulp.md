@@ -1,10 +1,15 @@
-### 标题
-`副标题`
-[link](http://www.baidu.com)
-``` html
-<ul class="pullRight">
-    <li class="iSwingAnimation"><i class="fontIcon icon-phone iAnimation">&#xe8bf;</i>0555-2110415</li>
-    <li class="iSwingAnimation"><i class="fontIcon icon-mail-2 iAnimation">&#xea45;</i><a href="mailto:administrator@163.com">administrator@163.com</a>
-    </li>
-</ul>
+[gulp](http://gulpjs.com/), [npm](https://www.npmjs.com/), [nodejs](https://nodejs.org)
+### 全局安装
 ```
+npm install -g gulp
+```
+### 项目安装
+`进入项目文件夹后使用`
+```
+npm install gulp --save-dev
+```
+### 常用插件
+`npm install gulp-sass --save-dev` sass
+### 常用命令
+`gulp` 运行
+`gulp watch` 开始监控
