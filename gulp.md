@@ -4,12 +4,12 @@
 npm install -g gulp
 ```
 ### 项目安装
-`进入项目文件夹后使用`
+`使用cd命令进入项目文件夹后使用`
 ```
 npm install gulp --save-dev
 ```
 ### 常用插件
-`npm install gulp-sass --save-dev` sass
+`npm install gulp-sass --save-dev` sass  
 ### 常用命令
-`gulp` 运行
+`gulp` 运行  
 `gulp watch` 开始监控
