@@ -1,4 +1,5 @@
-[gulp](http://gulpjs.com/), [npm](https://www.npmjs.com/), [nodejs](https://nodejs.org)
+>[gulp](http://gulpjs.com/ "gulp官网"), [npm](https://www.npmjs.com/ "npm官网"), [nodejs](https://nodejs.org node.js官网)  
+
 npm常用命令
 ---
 `npm install gulp --global` 全局安装gulp  
@@ -8,7 +9,7 @@ npm常用命令
 `npm install packageName --save` 安装组件并将信息写入package.json/dependencies  
 `npm install packageName --save-dev` 安装组件并将信息写入package.json/devDependencies  
 `npm update packageName --save` 更新组件及package.json信息  
-`npm uninstall packageName --save` 卸载组件及package.json信息
+`npm uninstall packageName --save` 卸载组件, 删除package.json信息
 gulp常用组件
 ---
 `npm install gulp-sass --save` sass编译  
@@ -17,4 +18,9 @@ gulp常用组件
 gulp常用命令
 ---
 `gulp` 运行默认任务  
-`gulp server` 运行静态服务器并开始监控文件改动, 执行css注入, 浏览器重载
+`gulp server` 运行静态服务器并开始监控文件改动, 执行css注入, 浏览器重载  
+
+* list
+* list
+
+    text
