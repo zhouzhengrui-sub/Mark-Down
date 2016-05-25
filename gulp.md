@@ -10,11 +10,13 @@ npm常用命令
 * `npm install packageName --save-dev` 安装组件并将信息写入package.json/devDependencies  
 * `npm update packageName --save` 更新组件及package.json信息  
 * `npm uninstall packageName --save` 卸载组件, 删除package.json信息
+
 gulp常用组件
 ---
 * `npm install gulp-sass --save` sass编译  
 * `npm install gulp-file-include --save` 文件包含
 * `npm install browser-sync --save` 静态服务器, css注入, 浏览器重载
+
 gulp常用命令
 ---
 * `gulp` 运行默认任务  
